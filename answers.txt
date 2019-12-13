@@ -1,0 +1,23 @@
+1.What is the difference between an adaptive website and a fully responsive website?
+
+Responsive sites and adaptive sites are the same in that they both change appearance based on the browser environment they are being viewed on (the most common thing: the browser's width).
+
+Responsive websites respond to the size of the browser at any given point. No matter what the browser width may be, the site adjusts its layout (and perhaps functionality) in a way that is optimized to the screen. Is the browser 300px wide or 30000px wide? It doesn't matter because the layout will respond accordingly. Well, at least if it's done correctly!
+
+Adaptive websites adapt to the width of the browser at a specific points. In other words, the website is only concerned about the browser being a specific width, at which point it adapts the layout.
+
+2.Describe what it means to be mobile first vs desktop first.
+Desktop-First Responsive Design Going down to smaller resolutions then mobile first is the other way.
+
+
+3.What does font-size: 62.5% in the html tag do for us when using rem units?
+
+It means that 1 rem is = to 10px
+
+4.How would you describe preprocessing to someone new to CSS?
+
+A CSS preprocessor is a program that lets you generate CSS from the preprocessor's own unique syntax. ... These features make the CSS structure more readable and easier to maintain. To use a CSS preprocessor, you must install a CSS compiler on your web server.
+
+5.What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
+
+Mixins are the best but then there is parametric mixins and I need practice on those.
